@@ -28,7 +28,6 @@ I’m passionate about building **AI-driven solutions** and exploring **cutting-
 
 - **Diamond Price Prediction**: Accurate price predictions using **ML Regression Models**.  
 - **Crop Recommendation System**: Smart farming insights based on soil and weather data.  
-- **Food Ordering Chatbot**: AI chatbot enhancing user experience with **IBM Watson**.  
 - **NEWZ-24x7**: Personalized, location-based news aligned with **SDGs**.  
 
 ---
